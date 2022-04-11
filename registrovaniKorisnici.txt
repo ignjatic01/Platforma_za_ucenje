@@ -1,0 +1,9 @@
+1 Petar Karadjordjevic kraljPero kraljevina123 1
+2 Drazen Brdjanin brdjo doktor 0
+3 Nikola Petrovic nikolapetrovic SrbijaiCG 1
+4 Nikolaj Romanov RuskiCar carskarusija 1
+5 Mihajlo Obrenovic knezMihajlo bratMilan 1
+6 Branko Fox branko flex 0
+7 Admin Admin admin admin 2
+8 Ilija Grahovac zmaj sipovo 2
+9 Momir Jugovic momirJug JugBogdan 1
